@@ -1,5 +1,4 @@
 import pandas as pd
-import os
 
 def preprocess(infile='Premier_League.csv', outfile='premier_league_cleaned.csv'):
     # Load raw data
@@ -21,8 +20,6 @@ def preprocess(infile='Premier_League.csv', outfile='premier_league_cleaned.csv'
 
     # Drop rows again if after coercion there are NaNs
     df = df.dropna(subset=numeric_cols + ['attendance'])
-
-    # Keep original structure - don't add home_win column
 
     # Save cleaned CSV
     df.to_csv(outfile, index=False)
