@@ -1,0 +1,376 @@
+date,clock,stadium,attendance,Home Team,Goals Home,Away Team,Away Goals,home_possessions,away_possessions,home_shots,away_shots
+28th May 2023,4:30pm,Emirates Stadium,60095.0,Arsenal,5,Wolverhampton Wanderers,0,51.0,49.0,14,6
+28th May 2023,4:30pm,Villa Park,42212.0,Aston Villa,2,Brighton and Hove Albion,1,40.3,59.7,12,8
+28th May 2023,4:30pm,Gtech Community Stadium,17120.0,Brentford,1,Manchester City,0,34.4,65.6,11,17
+28th May 2023,4:30pm,Stamford Bridge,40130.0,Chelsea,1,Newcastle United,1,64.4,35.6,22,13
+28th May 2023,4:30pm,Selhurst Park,25198.0,Crystal Palace,1,Nottingham Forest,1,66.0,34.0,15,7
+28th May 2023,4:30pm,Goodison Park,39201.0,Everton,1,Bournemouth,0,37.8,62.2,13,7
+28th May 2023,4:30pm,Elland Road,36871.0,Leeds United,1,Tottenham Hotspur,4,52.1,47.9,19,11
+28th May 2023,4:30pm,The King Power Stadium,32183.0,Leicester City,2,West Ham United,1,48.2,51.8,13,16
+28th May 2023,4:30pm,Old Trafford,73465.0,Manchester United,2,Fulham,1,53.2,46.8,21,10
+28th May 2023,4:30pm,St. Mary's Stadium,31129.0,Southampton,4,Liverpool,4,30.9,69.1,15,30
+25th May 2023,8:00pm,Old Trafford,73561.0,Manchester United,4,Chelsea,1,41.1,58.9,18,14
+24th May 2023,8:00pm,Amex Stadium,31388.0,Brighton and Hove Albion,1,Manchester City,1,39.6,60.4,20,13
+22nd May 2023,8:00pm,"St James' Park, Newcastle",52152.0,Newcastle United,0,Leicester City,0,77.6,22.4,23,1
+21st May 2023,1:30pm,London Stadium,62478.0,West Ham United,3,Leeds United,1,58.8,41.2,19,12
+21st May 2023,2:00pm,Amex Stadium,31507.0,Brighton and Hove Albion,3,Southampton,1,63.0,37.0,26,5
+21st May 2023,4:00pm,Etihad Stadium,53490.0,Manchester City,1,Chelsea,0,64.6,35.4,15,13
+20th May 2023,12:30p,Tottenham Hotspur Stadium,61514.0,Tottenham Hotspur,1,Brentford,3,61.8,38.2,22,11
+20th May 2023,3:00pm,Vitality Stadium,10240.0,Bournemouth,0,Manchester United,1,41.5,58.5,10,20
+20th May 2023,3:00pm,Craven Cottage,24356.0,Fulham,2,Crystal Palace,2,49.5,50.5,11,11
+20th May 2023,3:00pm,Anfield,53306.0,Liverpool,1,Aston Villa,1,66.3,33.7,10,6
+20th May 2023,3:00pm,Molineux,31684.0,Wolverhampton Wanderers,1,Everton,1,53.2,46.8,13,19
+20th May 2023,5:30pm,The City Ground,29514.0,Nottingham Forest,1,Arsenal,0,18.3,81.7,6,11
+18th May 2023,7:30pm,"St James' Park, Newcastle",52122.0,Newcastle United,4,Brighton and Hove Albion,1,33.7,66.3,22,8
+15th May 2023,8:00pm,The King Power Stadium,32225.0,Leicester City,0,Liverpool,3,33.1,66.9,4,16
+14th May 2023,2:00pm,Gtech Community Stadium,17075.0,Brentford,2,West Ham United,0,53.1,46.9,24,4
+14th May 2023,2:00pm,Goodison Park,39376.0,Everton,0,Manchester City,3,36.8,63.2,7,9
+14th May 2023,4:30pm,Emirates Stadium,60139.0,Arsenal,0,Brighton and Hove Albion,3,40.9,59.1,14,12
+13th May 2023,12:30p,Elland Road,36955.0,Leeds United,2,Newcastle United,2,36.1,63.9,9,18
+13th May 2023,3:00pm,Villa Park,42164.0,Aston Villa,2,Tottenham Hotspur,1,48.7,51.3,8,5
+13th May 2023,3:00pm,Stamford Bridge,40030.0,Chelsea,2,Nottingham Forest,2,76.1,23.9,14,11
+13th May 2023,3:00pm,Selhurst Park,25034.0,Crystal Palace,2,Bournemouth,0,59.8,40.2,17,5
+13th May 2023,3:00pm,Old Trafford,73570.0,Manchester United,2,Wolverhampton Wanderers,0,48.0,52.0,27,5
+13th May 2023,3:00pm,St. Mary's Stadium,28978.0,Southampton,0,Fulham,2,35.6,64.4,5,9
+8th May 2023,3:00pm,Craven Cottage,24442.0,Fulham,5,Leicester City,3,57.1,42.9,17,18
+8th May 2023,5:30pm,Amex Stadium,31567.0,Brighton and Hove Albion,1,Everton,5,77.7,22.3,23,10
+8th May 2023,8:00pm,The City Ground,29154.0,Nottingham Forest,4,Southampton,3,35.9,64.1,9,19
+7th May 2023,4:30pm,"St James' Park, Newcastle",50267.0,Newcastle United,0,Arsenal,2,54.3,45.7,12,10
+7th May 2023,7:00pm,London Stadium,62477.0,West Ham United,1,Manchester United,0,34.6,65.4,15,19
+6th May 2023,3:00pm,Vitality Stadium,10357.0,Bournemouth,1,Chelsea,3,34.0,66.0,10,11
+6th May 2023,3:00pm,Etihad Stadium,53406.0,Manchester City,2,Leeds United,1,80.9,19.1,18,4
+6th May 2023,3:00pm,Tottenham Hotspur Stadium,61093.0,Tottenham Hotspur,1,Crystal Palace,0,57.5,42.5,8,7
+6th May 2023,3:00pm,Molineux,31641.0,Wolverhampton Wanderers,1,Aston Villa,0,38.0,62.0,6,16
+6th May 2023,5:30pm,Anfield,52838.0,Liverpool,1,Brentford,0,53.9,46.1,15,5
+4th May 2023,8:00pm,Amex Stadium,31577.0,Brighton and Hove Albion,1,Manchester United,0,59.6,40.4,22,16
+3rd May 2023,8:00pm,Anfield,52602.0,Liverpool,1,Fulham,0,57.1,42.9,15,9
+3rd May 2023,8:00pm,Etihad Stadium,53305.0,Manchester City,3,West Ham United,0,68.9,31.1,16,6
+2nd May 2023,8:00pm,Emirates Stadium,60144.0,Arsenal,3,Chelsea,1,54.8,45.2,16,7
+1st May 2023,8:00pm,The King Power Stadium,32173.0,Leicester City,2,Everton,2,55.3,44.7,15,23
+30th April 2023,2:00pm,Vitality Stadium,10434.0,Bournemouth,4,Leeds United,1,42.1,57.9,12,15
+30th April 2023,2:00pm,Craven Cottage,24498.0,Fulham,1,Manchester City,2,37.4,62.6,4,12
+30th April 2023,2:00pm,Old Trafford,73592.0,Manchester United,1,Aston Villa,0,57.1,42.9,14,7
+30th April 2023,2:00pm,"St James' Park, Newcastle",52234.0,Newcastle United,3,Southampton,1,63.4,36.6,22,4
+30th April 2023,4:30pm,Anfield,53275.0,Liverpool,4,Tottenham Hotspur,3,67.6,32.4,12,10
+29th April 2023,12:30p,Selhurst Park,25148.0,Crystal Palace,4,West Ham United,3,59.9,40.1,16,8
+29th April 2023,3:00pm,Gtech Community Stadium,17080.0,Brentford,2,Nottingham Forest,1,68.9,31.1,14,5
+29th April 2023,3:00pm,Amex Stadium,31584.0,Brighton and Hove Albion,6,Wolverhampton Wanderers,0,57.2,42.8,22,10
+27th April 2023,7:45pm,Goodison Park,39248.0,Everton,1,Newcastle United,4,39.6,60.4,13,15
+27th April 2023,7:45pm,St. Mary's Stadium,30414.0,Southampton,0,Bournemouth,1,56.5,43.5,11,16
+27th April 2023,8:15pm,Tottenham Hotspur Stadium,61586.0,Tottenham Hotspur,2,Manchester United,2,39.9,60.1,18,17
+26th April 2023,7:30pm,The City Ground,28808.0,Nottingham Forest,3,Brighton and Hove Albion,1,24.8,75.2,12,17
+26th April 2023,7:45pm,Stamford Bridge,39929.0,Chelsea,0,Brentford,2,72.9,27.1,15,7
+26th April 2023,7:45pm,London Stadium,62473.0,West Ham United,1,Liverpool,2,27.4,72.6,7,20
+26th April 2023,8:00pm,Etihad Stadium,53482.0,Manchester City,4,Arsenal,1,51.9,48.1,14,8
+25th April 2023,7:30pm,Molineux,30792.0,Wolverhampton Wanderers,2,Crystal Palace,0,41.2,58.8,9,14
+25th April 2023,7:45pm,Villa Park,41046.0,Aston Villa,1,Fulham,0,51.8,48.2,14,1
+25th April 2023,8:00pm,Elland Road,36666.0,Leeds United,1,Leicester City,1,40.8,59.2,13,15
+23rd April 2023,2:00pm,Vitality Stadium,10465.0,Bournemouth,0,West Ham United,4,64.6,35.4,17,18
+23rd April 2023,2:00pm,"St James' Park, Newcastle",52252.0,Newcastle United,6,Tottenham Hotspur,1,57.0,43.0,25,11
+22nd April 2023,12:30p,Craven Cottage,24356.0,Fulham,2,Leeds United,1,49.3,50.7,12,10
+22nd April 2023,3:00pm,Gtech Community Stadium,17098.0,Brentford,1,Aston Villa,1,42.5,57.5,16,14
+22nd April 2023,3:00pm,Selhurst Park,25202.0,Crystal Palace,0,Everton,0,56.9,43.1,12,10
+22nd April 2023,3:00pm,The King Power Stadium,32053.0,Leicester City,2,Wolverhampton Wanderers,1,41.8,58.2,15,16
+21st April 2023,8:00pm,Emirates Stadium,60175.0,Arsenal,3,Southampton,3,74.2,25.8,25,8
+17th April 2023,8:00pm,Elland Road,36657.0,Leeds United,1,Liverpool,6,26.4,73.6,13,13
+16th April 2023,2:00pm,London Stadium,62475.0,West Ham United,2,Arsenal,2,28.5,71.5,16,11
+16th April 2023,4:30pm,The City Ground,29435.0,Nottingham Forest,0,Manchester United,2,31.8,68.2,6,22
+15th April 2023,12:30p,Villa Park,42055.0,Aston Villa,3,Newcastle United,0,52.0,48.0,16,8
+15th April 2023,3:00pm,Stamford Bridge,40126.0,Chelsea,1,Brighton and Hove Albion,2,42.6,57.4,8,26
+15th April 2023,3:00pm,Goodison Park,39241.0,Everton,1,Fulham,3,46.5,53.5,15,21
+15th April 2023,3:00pm,St. Mary's Stadium,30309.0,Southampton,0,Crystal Palace,2,58.2,41.8,11,10
+15th April 2023,3:00pm,Tottenham Hotspur Stadium,61369.0,Tottenham Hotspur,2,Bournemouth,3,57.4,42.6,24,9
+15th April 2023,3:00pm,Molineux,30769.0,Wolverhampton Wanderers,2,Brentford,0,50.6,49.4,11,10
+15th April 2023,5:30pm,Etihad Stadium,53329.0,Manchester City,3,Leicester City,1,70.6,29.4,12,11
+9th April 2023,2:00pm,Elland Road,36427.0,Leeds United,1,Crystal Palace,5,48.0,52.0,11,16
+9th April 2023,4:30pm,Anfield,53267.0,Liverpool,2,Arsenal,2,59.0,41.0,21,9
+8th April 2023,12:30p,Old Trafford,73509.0,Manchester United,2,Everton,0,63.8,36.2,29,15
+8th April 2023,3:00pm,Villa Park,42076.0,Aston Villa,2,Nottingham Forest,0,65.3,34.7,8,6
+8th April 2023,3:00pm,Gtech Community Stadium,17107.0,Brentford,1,Newcastle United,2,41.0,59.0,12,10
+8th April 2023,3:00pm,Craven Cottage,24491.0,Fulham,0,West Ham United,1,76.6,23.4,16,9
+8th April 2023,3:00pm,The King Power Stadium,32094.0,Leicester City,0,Bournemouth,1,50.8,49.2,14,19
+8th April 2023,3:00pm,Tottenham Hotspur Stadium,61405.0,Tottenham Hotspur,2,Brighton and Hove Albion,1,35.2,64.8,9,17
+8th April 2023,3:00pm,Molineux,31614.0,Wolverhampton Wanderers,1,Chelsea,0,37.6,62.4,9,13
+8th April 2023,5:30pm,St. Mary's Stadium,30963.0,Southampton,1,Manchester City,4,27.2,72.8,4,13
+5th April 2023,8:00pm,Old Trafford,73309.0,Manchester United,1,Brentford,0,64.7,35.3,18,6
+5th April 2023,8:00pm,London Stadium,62470.0,West Ham United,1,Newcastle United,5,42.0,58.0,7,15
+4th April 2023,7:45pm,Vitality Stadium,10266.0,Bournemouth,0,Brighton and Hove Albion,2,36.7,63.3,14,16
+4th April 2023,7:45pm,Elland Road,36740.0,Leeds United,2,Nottingham Forest,1,62.4,37.6,21,13
+4th April 2023,7:45pm,The King Power Stadium,32087.0,Leicester City,1,Aston Villa,2,35.9,64.1,9,15
+4th April 2023,8:00pm,Stamford Bridge,40093.0,Chelsea,0,Liverpool,0,49.6,50.4,12,7
+3rd April 2023,8:00pm,Goodison Park,39294.0,Everton,1,Tottenham Hotspur,1,39.3,60.7,15,8
+2nd April 2023,2:00pm,London Stadium,62465.0,West Ham United,1,Southampton,0,43.0,57.0,12,9
+2nd April 2023,4:30pm,"St James' Park, Newcastle",52268.0,Newcastle United,2,Manchester United,0,45.7,54.3,22,6
+1st April 2023,12:30p,Etihad Stadium,52877.0,Manchester City,4,Liverpool,1,68.1,31.9,17,4
+1st April 2023,3:00pm,Emirates Stadium,60283.0,Arsenal,4,Leeds United,1,67.1,32.9,13,7
+1st April 2023,3:00pm,Vitality Stadium,10305.0,Bournemouth,2,Fulham,1,42.7,57.3,12,10
+1st April 2023,3:00pm,Amex Stadium,31493.0,Brighton and Hove Albion,3,Brentford,3,72.2,27.8,33,7
+1st April 2023,3:00pm,Selhurst Park,25143.0,Crystal Palace,2,Leicester City,1,51.0,49.0,31,3
+1st April 2023,3:00pm,The City Ground,29368.0,Nottingham Forest,1,Wolverhampton Wanderers,1,27.6,72.4,17,8
+1st April 2023,5:30pm,Stamford Bridge,40082.0,Chelsea,0,Aston Villa,2,69.0,31.0,27,5
+19th March 2023,2:00pm,Emirates Stadium,60247.0,Arsenal,4,Crystal Palace,1,62.2,37.8,15,9
+18th March 2023,3:00pm,Villa Park,41021.0,Aston Villa,3,Bournemouth,0,55.8,44.2,20,10
+18th March 2023,3:00pm,Gtech Community Stadium,17006.0,Brentford,1,Leicester City,1,52.9,47.1,11,14
+18th March 2023,3:00pm,St. Mary's Stadium,30157.0,Southampton,3,Tottenham Hotspur,3,50.4,49.6,19,17
+18th March 2023,3:00pm,Molineux,31570.0,Wolverhampton Wanderers,2,Leeds United,4,65.9,34.1,23,11
+18th March 2023,5:30pm,Stamford Bridge,40025.0,Chelsea,2,Everton,2,68.9,31.1,20,12
+17th March 2023,8:00pm,The City Ground,29362.0,Nottingham Forest,1,Newcastle United,2,38.4,61.6,5,15
+15th March 2023,7:30pm,Amex Stadium,30933.0,Brighton and Hove Albion,1,Crystal Palace,0,57.1,42.9,11,11
+15th March 2023,7:30pm,St. Mary's Stadium,30438.0,Southampton,0,Brentford,2,66.4,33.6,7,11
+12th March 2023,2:00pm,Craven Cottage,24426.0,Fulham,0,Arsenal,3,44.7,55.3,12,15
+12th March 2023,2:00pm,Old Trafford,73439.0,Manchester United,0,Southampton,0,46.7,53.3,10,17
+12th March 2023,2:00pm,London Stadium,62472.0,West Ham United,1,Aston Villa,1,40.8,59.2,17,12
+12th March 2023,4:30pm,"St James' Park, Newcastle",52240.0,Newcastle United,2,Wolverhampton Wanderers,1,42.1,57.9,19,7
+11th March 2023,12:30p,Vitality Stadium,10536.0,Bournemouth,1,Liverpool,0,30.7,69.3,5,15
+11th March 2023,3:00pm,Goodison Park,39036.0,Everton,1,Brentford,0,33.3,66.7,13,12
+11th March 2023,3:00pm,Elland Road,36471.0,Leeds United,2,Brighton and Hove Albion,2,38.0,62.0,12,15
+11th March 2023,3:00pm,The King Power Stadium,32170.0,Leicester City,1,Chelsea,3,48.4,51.6,17,12
+11th March 2023,3:00pm,Tottenham Hotspur Stadium,61460.0,Tottenham Hotspur,3,Nottingham Forest,1,55.2,44.8,15,9
+11th March 2023,5:30pm,Selhurst Park,25844.0,Crystal Palace,0,Manchester City,1,32.2,67.8,4,14
+6th March 2023,8:00pm,Gtech Community Stadium,17025.0,Brentford,3,Fulham,2,36.2,63.8,14,9
+5th March 2023,2:00pm,The City Ground,29353.0,Nottingham Forest,2,Everton,2,57.1,42.9,10,10
+5th March 2023,4:30pm,Anfield,53001.0,Liverpool,7,Manchester United,0,59.6,40.4,18,8
+4th March 2023,12:30p,Etihad Stadium,53419.0,Manchester City,2,Newcastle United,0,56.3,43.7,11,5
+4th March 2023,3:00pm,Emirates Stadium,60222.0,Arsenal,3,Bournemouth,2,80.1,19.9,31,4
+4th March 2023,3:00pm,Villa Park,41893.0,Aston Villa,1,Crystal Palace,0,58.1,41.9,8,3
+4th March 2023,3:00pm,Amex Stadium,31523.0,Brighton and Hove Albion,4,West Ham United,0,65.8,34.2,20,3
+4th March 2023,3:00pm,Stamford Bridge,39905.0,Chelsea,1,Leeds United,0,57.2,42.8,13,11
+4th March 2023,3:00pm,Molineux,31585.0,Wolverhampton Wanderers,1,Tottenham Hotspur,0,46.5,53.5,8,21
+4th March 2023,5:30pm,St. Mary's Stadium,30139.0,Southampton,1,Leicester City,0,34.9,65.1,11,11
+1st March 2023,7:45pm,Emirates Stadium,60213.0,Arsenal,4,Everton,0,73.1,26.9,15,8
+1st March 2023,8:00pm,Anfield,53259.0,Liverpool,2,Wolverhampton Wanderers,0,56.8,43.2,15,4
+26th February 2023,1:30pm,Tottenham Hotspur Stadium,61613.0,Tottenham Hotspur,2,Chelsea,0,41.2,58.8,8,10
+25th February 2023,3:00pm,Goodison Park,39309.0,Everton,0,Aston Villa,2,46.5,53.5,15,9
+25th February 2023,3:00pm,Elland Road,36641.0,Leeds United,1,Southampton,0,60.6,39.4,14,8
+25th February 2023,3:00pm,The King Power Stadium,32227.0,Leicester City,0,Arsenal,1,34.1,65.9,1,10
+25th February 2023,3:00pm,London Stadium,62469.0,West Ham United,4,Nottingham Forest,0,49.1,50.9,18,8
+25th February 2023,5:30pm,Vitality Stadium,10481.0,Bournemouth,1,Manchester City,4,34.0,66.0,13,20
+25th February 2023,7:45pm,Selhurst Park,25842.0,Crystal Palace,0,Liverpool,0,36.2,63.8,6,12
+24th February 2023,8:00pm,Craven Cottage,24399.0,Fulham,1,Wolverhampton Wanderers,1,50.5,49.5,10,8
+19th February 2023,2:00pm,Old Trafford,73578.0,Manchester United,3,Leicester City,0,56.9,43.1,26,19
+19th February 2023,4:30pm,Tottenham Hotspur Stadium,61476.0,Tottenham Hotspur,2,West Ham United,0,57.0,43.0,16,6
+18th February 2023,12:30p,Villa Park,42066.0,Aston Villa,2,Arsenal,4,33.4,66.6,7,20
+18th February 2023,3:00pm,Gtech Community Stadium,17122.0,Brentford,1,Crystal Palace,1,58.7,41.3,12,10
+18th February 2023,3:00pm,Amex Stadium,31619.0,Brighton and Hove Albion,0,Fulham,1,65.3,34.7,21,5
+18th February 2023,3:00pm,Stamford Bridge,40152.0,Chelsea,0,Southampton,1,61.3,38.7,17,8
+18th February 2023,3:00pm,Goodison Park,39232.0,Everton,1,Leeds United,0,50.0,50.0,15,8
+18th February 2023,3:00pm,The City Ground,29365.0,Nottingham Forest,1,Manchester City,1,27.0,73.0,4,23
+18th February 2023,3:00pm,Molineux,31222.0,Wolverhampton Wanderers,0,Bournemouth,1,68.6,31.4,15,5
+18th February 2023,5:30pm,"St James' Park, Newcastle",52758.0,Newcastle United,0,Liverpool,2,37.4,62.6,14,13
+15th February 2023,7:30pm,Emirates Stadium,60276.0,Arsenal,1,Manchester City,3,63.5,36.5,10,9
+13th February 2023,8:00pm,Anfield,53027.0,Liverpool,2,Everton,0,59.1,40.9,15,6
+12th February 2023,2:00pm,Elland Road,36919.0,Leeds United,0,Manchester United,2,33.0,67.0,16,11
+12th February 2023,4:30pm,Etihad Stadium,53392.0,Manchester City,3,Aston Villa,1,67.2,32.8,17,6
+11th February 2023,12:30p,London Stadium,62471.0,West Ham United,1,Chelsea,1,28.2,71.8,10,12
+11th February 2023,3:00pm,Emirates Stadium,60254.0,Arsenal,1,Brentford,1,69.2,30.8,23,9
+11th February 2023,3:00pm,Selhurst Park,24827.0,Crystal Palace,1,Brighton and Hove Albion,1,25.8,74.2,6,17
+11th February 2023,3:00pm,Craven Cottage,24244.0,Fulham,2,Nottingham Forest,0,50.0,50.0,16,10
+11th February 2023,3:00pm,The King Power Stadium,32184.0,Leicester City,4,Tottenham Hotspur,1,48.9,51.1,15,11
+11th February 2023,3:00pm,St. Mary's Stadium,29751.0,Southampton,1,Wolverhampton Wanderers,2,40.9,59.1,17,11
+11th February 2023,5:30pm,Vitality Stadium,10419.0,Bournemouth,1,Newcastle United,1,33.2,66.8,11,15
+8th February 2023,8:00pm,Old Trafford,73456.0,Manchester United,2,Leeds United,2,65.9,34.1,24,8
+5th February 2023,2:00pm,The City Ground,29363.0,Nottingham Forest,1,Leeds United,0,30.1,69.9,6,10
+5th February 2023,4:30pm,Tottenham Hotspur Stadium,61747.0,Tottenham Hotspur,1,Manchester City,0,35.2,64.8,12,15
+4th February 2023,12:30p,Goodison Park,39314.0,Everton,1,Arsenal,0,29.5,70.5,12,15
+4th February 2023,3:00pm,Villa Park,42055.0,Aston Villa,2,Leicester City,4,63.2,36.8,19,9
+4th February 2023,3:00pm,Gtech Community Stadium,17051.0,Brentford,3,Southampton,0,48.3,51.7,14,14
+4th February 2023,3:00pm,Amex Stadium,31600.0,Brighton and Hove Albion,1,Bournemouth,0,71.8,28.2,20,12
+4th February 2023,3:00pm,Old Trafford,73420.0,Manchester United,2,Crystal Palace,1,53.1,46.9,14,10
+4th February 2023,3:00pm,Molineux,31664.0,Wolverhampton Wanderers,3,Liverpool,0,41.8,58.2,12,22
+4th February 2023,5:30pm,"St James' Park, Newcastle",52256.0,Newcastle United,1,West Ham United,1,62.7,37.3,8,10
+3rd February 2023,8:00pm,Stamford Bridge,40041.0,Chelsea,0,Fulham,0,66.9,33.1,12,10
+23rd January 2023,8:15pm,Craven Cottage,24190.0,Fulham,0,Tottenham Hotspur,1,52.9,47.1,10,10
+22nd January 2023,2:00pm,Elland Road,36260.0,Leeds United,0,Brentford,0,58.5,41.5,9,6
+22nd January 2023,2:00pm,Etihad Stadium,53282.0,Manchester City,3,Wolverhampton Wanderers,0,55.3,44.7,13,10
+22nd January 2023,4:30pm,Emirates Stadium,60325.0,Arsenal,3,Manchester United,2,57.2,42.8,25,6
+21st January 2023,12:30p,Anfield,53126.0,Liverpool,0,Chelsea,0,47.5,52.5,15,11
+21st January 2023,3:00pm,Vitality Stadium,10248.0,Bournemouth,1,Nottingham Forest,1,42.4,57.6,16,20
+21st January 2023,3:00pm,The King Power Stadium,32056.0,Leicester City,2,Brighton and Hove Albion,2,36.6,63.4,9,13
+21st January 2023,3:00pm,St. Mary's Stadium,30158.0,Southampton,0,Aston Villa,1,36.5,63.5,8,16
+21st January 2023,3:00pm,London Stadium,62470.0,West Ham United,2,Everton,0,32.2,67.8,11,5
+21st January 2023,5:30pm,Selhurst Park,25350.0,Crystal Palace,0,Newcastle United,0,39.2,60.8,6,16
+19th January 2023,8:00pm,Etihad Stadium,53088.0,Manchester City,4,Tottenham Hotspur,2,57.9,42.1,16,9
+18th January 2023,8:00pm,Selhurst Park,23343.0,Crystal Palace,1,Manchester United,1,39.4,60.6,10,15
+15th January 2023,2:00pm,Stamford Bridge,40075.0,Chelsea,1,Crystal Palace,0,62.5,37.5,15,10
+15th January 2023,2:00pm,"St James' Park, Newcastle",52247.0,Newcastle United,1,Fulham,0,62.3,37.7,20,5
+15th January 2023,4:30pm,Tottenham Hotspur Stadium,61870.0,Tottenham Hotspur,0,Arsenal,2,50.6,49.4,17,14
+14th January 2023,12:30p,Old Trafford,75546.0,Manchester United,2,Manchester City,1,29.4,70.6,8,5
+14th January 2023,3:00pm,Amex Stadium,31645.0,Brighton and Hove Albion,3,Liverpool,0,60.8,39.2,16,6
+14th January 2023,3:00pm,Goodison Park,39305.0,Everton,1,Southampton,2,52.2,47.8,12,13
+14th January 2023,3:00pm,The City Ground,29301.0,Nottingham Forest,2,Leicester City,0,38.8,61.2,15,6
+14th January 2023,3:00pm,Molineux,31511.0,Wolverhampton Wanderers,1,West Ham United,0,58.5,41.5,17,16
+14th January 2023,5:30pm,Gtech Community Stadium,17031.0,Brentford,2,Bournemouth,0,49.9,50.1,12,7
+13th January 2023,8:00pm,Villa Park,42008.0,Aston Villa,2,Leeds United,1,53.4,46.6,11,16
+12th January 2023,8:00pm,Craven Cottage,24460.0,Fulham,2,Chelsea,1,47.4,52.6,8,20
+5th January 2023,8:00pm,Stamford Bridge,39998.0,Chelsea,0,Manchester City,1,47.7,52.3,8,12
+4th January 2023,7:30pm,St. Mary's Stadium,30150.0,Southampton,0,Nottingham Forest,1,62.5,37.5,8,11
+4th January 2023,7:45pm,Elland Road,36173.0,Leeds United,2,West Ham United,2,63.3,36.7,14,15
+4th January 2023,8:00pm,Villa Park,39978.0,Aston Villa,1,Wolverhampton Wanderers,1,55.9,44.1,13,10
+4th January 2023,8:00pm,Selhurst Park,25132.0,Crystal Palace,0,Tottenham Hotspur,4,46.7,53.3,19,14
+3rd January 2023,7:45pm,Emirates Stadium,60319.0,Arsenal,0,Newcastle United,0,66.8,33.2,17,8
+3rd January 2023,7:45pm,The King Power Stadium,30813.0,Leicester City,0,Fulham,1,61.4,38.6,15,11
+3rd January 2023,8:00pm,Old Trafford,73322.0,Manchester United,3,Bournemouth,0,58.5,41.5,18,7
+2nd January 2023,5:30pm,Gtech Community Stadium,17163.0,Brentford,3,Liverpool,1,27.0,73.0,10,16
+1st January 2023,2:00pm,Tottenham Hotspur Stadium,61651.0,Tottenham Hotspur,0,Aston Villa,2,59.3,40.7,6,13
+1st January 2023,4:30pm,The City Ground,29229.0,Nottingham Forest,1,Chelsea,1,27.7,72.3,12,7
+31st December 2022,12:30p,Molineux,31658.0,Wolverhampton Wanderers,0,Manchester United,1,45.7,54.3,10,16
+31st December 2022,3:00pm,Vitality Stadium,9972.0,Bournemouth,0,Crystal Palace,2,58.9,41.1,6,15
+31st December 2022,3:00pm,Craven Cottage,24344.0,Fulham,2,Southampton,1,62.5,37.5,8,9
+31st December 2022,3:00pm,Etihad Stadium,53444.0,Manchester City,1,Everton,1,73.7,26.3,16,2
+31st December 2022,3:00pm,"St James' Park, Newcastle",52211.0,Newcastle United,0,Leeds United,0,59.0,41.0,16,8
+31st December 2022,5:30pm,Amex Stadium,31647.0,Brighton and Hove Albion,2,Arsenal,4,67.8,32.2,9,14
+30th December 2022,7:45pm,London Stadium,62467.0,West Ham United,0,Brentford,2,63.1,36.9,20,9
+30th December 2022,8:00pm,Anfield,53343.0,Liverpool,2,Leicester City,1,57.0,43.0,21,7
+28th December 2022,8:00pm,Elland Road,36889.0,Leeds United,1,Manchester City,3,31.0,69.0,9,26
+27th December 2022,5:30pm,Stamford Bridge,40046.0,Chelsea,2,Bournemouth,0,60.3,39.7,15,9
+27th December 2022,8:00pm,Old Trafford,73608.0,Manchester United,3,Nottingham Forest,0,65.8,34.2,17,8
+26th December 2022,12:30p,Gtech Community Stadium,17137.0,Brentford,2,Tottenham Hotspur,2,39.1,60.9,9,15
+26th December 2022,3:00pm,Selhurst Park,25176.0,Crystal Palace,0,Fulham,3,36.2,63.8,4,23
+26th December 2022,3:00pm,Goodison Park,39252.0,Everton,1,Wolverhampton Wanderers,2,58.8,41.2,12,7
+26th December 2022,3:00pm,The King Power Stadium,32185.0,Leicester City,0,Newcastle United,3,60.1,39.9,8,12
+26th December 2022,3:00pm,St. Mary's Stadium,31010.0,Southampton,1,Brighton and Hove Albion,3,33.6,66.4,14,7
+26th December 2022,5:30pm,Villa Park,42085.0,Aston Villa,1,Liverpool,3,48.1,51.9,12,16
+26th December 2022,8:00pm,Emirates Stadium,60125.0,Arsenal,3,West Ham United,1,66.5,33.5,16,8
+13th November 2022,2:00pm,Amex Stadium,31581.0,Brighton and Hove Albion,1,Aston Villa,2,65.1,34.9,7,8
+13th November 2022,4:30pm,Craven Cottage,24246.0,Fulham,1,Manchester United,2,52.7,47.3,14,14
+12th November 2022,12:30p,Etihad Stadium,52786.0,Manchester City,1,Brentford,2,74.6,25.4,29,10
+12th November 2022,3:00pm,Vitality Stadium,10382.0,Bournemouth,3,Everton,0,35.8,64.2,16,15
+12th November 2022,3:00pm,Anfield,53331.0,Liverpool,3,Southampton,1,59.9,40.1,15,9
+12th November 2022,3:00pm,The City Ground,29045.0,Nottingham Forest,1,Crystal Palace,0,31.5,68.5,9,8
+12th November 2022,3:00pm,Tottenham Hotspur Stadium,61667.0,Tottenham Hotspur,4,Leeds United,3,54.7,45.3,14,12
+12th November 2022,3:00pm,London Stadium,62459.0,West Ham United,0,Leicester City,2,53.6,46.4,18,9
+12th November 2022,5:30pm,"St James' Park, Newcastle",52264.0,Newcastle United,1,Chelsea,0,48.9,51.1,10,5
+12th November 2022,7:45pm,Molineux,34624.0,Wolverhampton Wanderers,0,Arsenal,2,37.4,62.6,11,14
+6th November 2022,12:00p,Stamford Bridge,40142.0,Chelsea,0,Arsenal,1,44.3,55.7,5,14
+6th November 2022,2:00pm,Villa Park,42058.0,Aston Villa,3,Manchester United,1,41.8,58.2,6,8
+6th November 2022,2:00pm,St. Mary's Stadium,30402.0,Southampton,1,Newcastle United,4,55.2,44.8,16,7
+6th November 2022,2:00pm,London Stadium,62451.0,West Ham United,1,Crystal Palace,2,42.0,58.0,5,15
+6th November 2022,4:30pm,Tottenham Hotspur Stadium,62008.0,Tottenham Hotspur,1,Liverpool,2,46.6,53.4,14,13
+5th November 2022,3:00pm,Elland Road,36304.0,Leeds United,4,Bournemouth,3,60.9,39.1,18,9
+5th November 2022,3:00pm,Etihad Stadium,52395.0,Manchester City,2,Fulham,1,70.6,29.4,16,4
+5th November 2022,3:00pm,The City Ground,28869.0,Nottingham Forest,2,Brentford,2,47.2,52.8,15,6
+5th November 2022,3:00pm,Molineux,30732.0,Wolverhampton Wanderers,2,Brighton and Hove Albion,3,28.6,71.4,8,19
+5th November 2022,5:30pm,Goodison Park,39206.0,Everton,0,Leicester City,2,48.4,51.6,12,22
+30th October 2022,2:00pm,Emirates Stadium,60263.0,Arsenal,5,Nottingham Forest,0,69.1,30.9,24,5
+30th October 2022,4:15pm,Old Trafford,73682.0,Manchester United,1,West Ham United,0,53.0,47.0,16,13
+29th October 2022,12:30p,The King Power Stadium,32223.0,Leicester City,0,Manchester City,1,35.7,64.3,10,15
+29th October 2022,3:00pm,Vitality Stadium,10430.0,Bournemouth,2,Tottenham Hotspur,3,30.6,69.4,6,23
+29th October 2022,3:00pm,Gtech Community Stadium,17051.0,Brentford,1,Wolverhampton Wanderers,1,57.8,42.2,12,13
+29th October 2022,3:00pm,Amex Stadium,31746.0,Brighton and Hove Albion,4,Chelsea,1,41.0,59.0,19,15
+29th October 2022,3:00pm,Selhurst Park,25130.0,Crystal Palace,1,Southampton,0,44.4,55.6,12,14
+29th October 2022,3:00pm,"St James' Park, Newcastle",52233.0,Newcastle United,4,Aston Villa,0,59.5,40.5,20,3
+29th October 2022,5:30pm,Craven Cottage,23534.0,Fulham,0,Everton,0,56.5,43.5,24,9
+29th October 2022,7:45pm,Anfield,53274.0,Liverpool,1,Leeds United,2,69.0,31.0,22,14
+24th October 2022,8:00pm,London Stadium,62447.0,West Ham United,2,Bournemouth,0,54.4,45.6,20,5
+23rd October 2022,2:00pm,Villa Park,41693.0,Aston Villa,4,Brentford,0,45.1,54.9,19,12
+23rd October 2022,2:00pm,Elland Road,36447.0,Leeds United,2,Fulham,3,57.2,42.8,14,11
+23rd October 2022,2:00pm,St. Mary's Stadium,31145.0,Southampton,1,Arsenal,1,40.7,59.3,10,12
+23rd October 2022,2:00pm,Molineux,31425.0,Wolverhampton Wanderers,0,Leicester City,4,60.9,39.1,21,5
+23rd October 2022,4:30pm,Tottenham Hotspur Stadium,61726.0,Tottenham Hotspur,1,Newcastle United,2,52.4,47.6,17,13
+22nd October 2022,12:30p,The City Ground,29245.0,Nottingham Forest,1,Liverpool,0,24.8,75.2,10,15
+22nd October 2022,3:00pm,Goodison Park,38939.0,Everton,3,Crystal Palace,0,45.8,54.2,9,9
+22nd October 2022,3:00pm,Etihad Stadium,53223.0,Manchester City,3,Brighton and Hove Albion,1,48.4,51.6,10,8
+22nd October 2022,5:30pm,Stamford Bridge,39503.0,Chelsea,1,Manchester United,1,47.9,52.1,6,13
+20th October 2022,7:30pm,Craven Cottage,23508.0,Fulham,3,Aston Villa,0,60.4,39.6,18,12
+20th October 2022,8:15pm,The King Power Stadium,30814.0,Leicester City,2,Leeds United,0,46.8,53.2,5,14
+19th October 2022,7:30pm,Vitality Stadium,10405.0,Bournemouth,0,Southampton,1,53.5,46.5,15,9
+19th October 2022,7:30pm,Gtech Community Stadium,17118.0,Brentford,0,Chelsea,0,33.7,66.3,8,14
+19th October 2022,7:30pm,Anfield,53346.0,Liverpool,1,West Ham United,0,53.8,46.2,22,8
+19th October 2022,7:30pm,"St James' Park, Newcastle",52247.0,Newcastle United,1,Everton,0,49.8,50.2,16,1
+19th October 2022,8:15pm,Old Trafford,73677.0,Manchester United,2,Tottenham Hotspur,0,51.9,48.1,28,9
+18th October 2022,7:30pm,Amex Stadium,31463.0,Brighton and Hove Albion,0,Nottingham Forest,0,70.3,29.7,19,3
+18th October 2022,8:15pm,Selhurst Park,25125.0,Crystal Palace,2,Wolverhampton Wanderers,1,51.3,48.7,14,10
+16th October 2022,2:00pm,Villa Park,41754.0,Aston Villa,0,Chelsea,2,41.1,58.9,18,8
+16th October 2022,2:00pm,Elland Road,36700.0,Leeds United,0,Arsenal,1,47.0,53.0,16,9
+16th October 2022,2:00pm,Old Trafford,73726.0,Manchester United,0,Newcastle United,0,63.0,37.0,15,9
+16th October 2022,2:00pm,St. Mary's Stadium,29159.0,Southampton,1,West Ham United,1,39.1,60.9,10,25
+16th October 2022,4:30pm,Anfield,53286.0,Liverpool,1,Manchester City,0,36.8,63.2,13,16
+15th October 2022,12:30p,The King Power Stadium,31298.0,Leicester City,0,Crystal Palace,0,53.1,46.9,14,8
+15th October 2022,3:00pm,Craven Cottage,22913.0,Fulham,2,Bournemouth,2,68.9,31.1,19,10
+15th October 2022,3:00pm,Molineux,31554.0,Wolverhampton Wanderers,1,Nottingham Forest,0,58.0,42.0,9,10
+15th October 2022,5:30pm,Tottenham Hotspur Stadium,61812.0,Tottenham Hotspur,2,Everton,0,61.5,38.5,21,4
+14th October 2022,8:00pm,Gtech Community Stadium,17016.0,Brentford,2,Brighton and Hove Albion,0,27.5,72.5,7,21
+10th October 2022,8:00pm,The City Ground,29208.0,Nottingham Forest,1,Aston Villa,1,39.9,60.1,6,12
+9th October 2022,2:00pm,Selhurst Park,25042.0,Crystal Palace,2,Leeds United,1,54.5,45.5,13,10
+9th October 2022,2:00pm,London Stadium,62454.0,West Ham United,3,Fulham,1,50.3,49.7,17,8
+9th October 2022,4:30pm,Emirates Stadium,59968.0,Arsenal,3,Liverpool,2,44.0,56.0,11,8
+9th October 2022,7:00pm,Goodison Park,39258.0,Everton,1,Manchester United,2,39.7,60.3,11,12
+8th October 2022,3:00pm,Vitality Stadium,10272.0,Bournemouth,2,Leicester City,1,44.2,55.8,10,9
+8th October 2022,3:00pm,Stamford Bridge,39940.0,Chelsea,3,Wolverhampton Wanderers,0,57.4,42.6,20,8
+8th October 2022,3:00pm,Etihad Stadium,53365.0,Manchester City,4,Southampton,0,65.2,34.8,21,5
+8th October 2022,3:00pm,"St James' Park, Newcastle",52067.0,Newcastle United,5,Brentford,1,54.4,45.6,16,6
+8th October 2022,5:30pm,Amex Stadium,31498.0,Brighton and Hove Albion,0,Tottenham Hotspur,1,58.9,41.1,14,8
+3rd October 2022,8:00pm,The King Power Stadium,32202.0,Leicester City,4,Nottingham Forest,0,51.6,48.4,17,10
+2nd October 2022,2:00pm,Etihad Stadium,53475.0,Manchester City,6,Manchester United,3,53.9,46.1,22,12
+2nd October 2022,4:30pm,Elland Road,36582.0,Leeds United,0,Aston Villa,0,43.8,56.2,6,19
+1st October 2022,12:30p,Emirates Stadium,60278.0,Arsenal,3,Tottenham Hotspur,1,64.7,35.3,22,7
+1st October 2022,3:00pm,Vitality Stadium,10126.0,Bournemouth,0,Brentford,0,42.0,58.0,7,13
+1st October 2022,3:00pm,Selhurst Park,25198.0,Crystal Palace,1,Chelsea,2,36.0,64.0,7,13
+1st October 2022,3:00pm,Craven Cottage,22913.0,Fulham,1,Newcastle United,4,31.7,68.3,3,19
+1st October 2022,3:00pm,Anfield,53320.0,Liverpool,3,Brighton and Hove Albion,3,53.8,46.2,15,6
+1st October 2022,3:00pm,St. Mary's Stadium,30510.0,Southampton,1,Everton,2,54.2,45.8,22,12
+1st October 2022,5:30pm,London Stadium,62444.0,West Ham United,2,Wolverhampton Wanderers,0,39.1,60.9,18,15
+18th September 2022,12:00p,Gtech Community Stadium,17122.0,Brentford,0,Arsenal,3,36.1,63.9,5,13
+18th September 2022,2:15pm,Goodison Park,39298.0,Everton,1,West Ham United,0,53.6,46.4,7,14
+17th September 2022,12:30p,Molineux,31578.0,Wolverhampton Wanderers,0,Manchester City,3,40.8,59.2,6,16
+17th September 2022,3:00pm,"St James' Park, Newcastle",52238.0,Newcastle United,1,Bournemouth,1,72.4,27.6,20,10
+17th September 2022,5:30pm,Tottenham Hotspur Stadium,61450.0,Tottenham Hotspur,6,Leicester City,2,43.7,56.3,16,19
+16th September 2022,8:00pm,Villa Park,40758.0,Aston Villa,1,Southampton,0,52.7,47.3,11,7
+16th September 2022,8:00pm,The City Ground,28654.0,Nottingham Forest,2,Fulham,3,40.8,59.2,11,15
+4th September 2022,2:00pm,Amex Stadium,31185.0,Brighton and Hove Albion,5,Leicester City,2,53.5,46.5,23,6
+4th September 2022,4:30pm,Old Trafford,73431.0,Manchester United,3,Arsenal,1,39.5,60.5,10,16
+3rd September 2022,12:30p,Goodison Park,39240.0,Everton,0,Liverpool,0,39.1,60.9,14,23
+3rd September 2022,3:00pm,Stamford Bridge,39923.0,Chelsea,2,West Ham United,1,68.1,31.9,8,6
+3rd September 2022,3:00pm,"St James' Park, Newcastle",51863.0,Newcastle United,0,Crystal Palace,0,51.7,48.3,23,19
+3rd September 2022,3:00pm,The City Ground,28720.0,Nottingham Forest,2,Bournemouth,3,52.7,47.3,11,8
+3rd September 2022,3:00pm,Tottenham Hotspur Stadium,61641.0,Tottenham Hotspur,2,Fulham,1,51.9,48.1,23,9
+3rd September 2022,3:00pm,Molineux,30546.0,Wolverhampton Wanderers,1,Southampton,0,50.8,49.2,7,12
+3rd September 2022,5:30pm,Villa Park,41830.0,Aston Villa,1,Manchester City,1,27.7,72.3,3,13
+1st September 2022,8:00pm,The King Power Stadium,32226.0,Leicester City,0,Manchester United,1,53.9,46.1,10,9
+31st August 2022,7:30pm,Emirates Stadium,60012.0,Arsenal,2,Aston Villa,1,58.9,41.1,22,4
+31st August 2022,7:30pm,Vitality Stadium,10113.0,Bournemouth,0,Wolverhampton Wanderers,0,34.1,65.9,5,17
+31st August 2022,7:30pm,Etihad Stadium,53409.0,Manchester City,6,Nottingham Forest,0,74.9,25.1,17,8
+31st August 2022,7:45pm,London Stadium,62450.0,West Ham United,1,Tottenham Hotspur,1,38.3,61.7,14,12
+31st August 2022,8:00pm,Anfield,53316.0,Liverpool,2,Newcastle United,1,71.8,28.2,23,5
+30th August 2022,7:30pm,Selhurst Park,25043.0,Crystal Palace,1,Brentford,1,48.9,51.1,13,9
+30th August 2022,7:30pm,Craven Cottage,22224.0,Fulham,2,Brighton and Hove Albion,1,39.1,60.9,10,7
+30th August 2022,8:00pm,Elland Road,36338.0,Leeds United,1,Everton,1,69.1,30.9,14,7
+28th August 2022,2:00pm,Villa Park,41796.0,Aston Villa,0,West Ham United,1,57.8,42.2,9,7
+28th August 2022,2:00pm,Molineux,31311.0,Wolverhampton Wanderers,1,Newcastle United,1,36.1,63.9,10,21
+28th August 2022,4:30pm,The City Ground,29296.0,Nottingham Forest,0,Tottenham Hotspur,2,55.3,44.7,17,18
+27th August 2022,12:30p,St. Mary's Stadium,31196.0,Southampton,0,Manchester United,1,48.3,51.7,17,11
+27th August 2022,3:00pm,Gtech Community Stadium,17009.0,Brentford,1,Everton,1,57.8,42.2,20,14
+27th August 2022,3:00pm,Amex Stadium,30953.0,Brighton and Hove Albion,1,Leeds United,0,42.8,57.2,13,10
+27th August 2022,3:00pm,Stamford Bridge,39953.0,Chelsea,2,Leicester City,1,45.1,54.9,7,17
+27th August 2022,3:00pm,Anfield,53328.0,Liverpool,9,Bournemouth,0,69.4,30.6,19,5
+27th August 2022,3:00pm,Etihad Stadium,53112.0,Manchester City,4,Crystal Palace,2,74.3,25.7,18,2
+27th August 2022,5:30pm,Emirates Stadium,60164.0,Arsenal,2,Fulham,1,72.0,28.0,22,11
+21st August 2022,2:00pm,Elland Road,36372.0,Leeds United,3,Chelsea,0,39.1,60.9,12,14
+21st August 2022,2:00pm,London Stadium,62449.0,West Ham United,0,Brighton and Hove Albion,2,49.6,50.4,13,11
+21st August 2022,4:30pm,"St James' Park, Newcastle",52258.0,Newcastle United,3,Manchester City,3,31.3,68.7,12,21
+20th August 2022,12:30p,Tottenham Hotspur Stadium,61298.0,Tottenham Hotspur,1,Wolverhampton Wanderers,0,49.9,50.1,11,20
+20th August 2022,3:00pm,Selhurst Park,22012.0,Crystal Palace,3,Aston Villa,1,50.8,49.2,17,13
+20th August 2022,3:00pm,Goodison Park,39271.0,Everton,1,Nottingham Forest,1,48.3,51.7,19,14
+20th August 2022,3:00pm,Craven Cottage,21798.0,Fulham,3,Brentford,2,43.7,56.3,18,13
+20th August 2022,3:00pm,The King Power Stadium,30850.0,Leicester City,1,Southampton,2,62.0,38.0,6,9
+20th August 2022,5:30pm,Vitality Stadium,10423.0,Bournemouth,0,Arsenal,3,41.8,58.2,6,14
+15th August 2022,8:00pm,Anfield,52970.0,Liverpool,1,Crystal Palace,1,72.6,27.4,24,7
+14th August 2022,2:00pm,The City Ground,29281.0,Nottingham Forest,1,West Ham United,0,43.2,56.8,13,19
+14th August 2022,4:30pm,Stamford Bridge,39946.0,Chelsea,2,Tottenham Hotspur,2,63.7,36.3,16,10
+13th August 2022,12:30p,Villa Park,41883.0,Aston Villa,2,Everton,1,57.5,42.5,12,15
+13th August 2022,3:00pm,Emirates Stadium,60033.0,Arsenal,4,Leicester City,2,49.9,50.1,19,6
+13th August 2022,3:00pm,Amex Stadium,31552.0,Brighton and Hove Albion,0,Newcastle United,0,54.5,45.5,13,4
+13th August 2022,3:00pm,Etihad Stadium,53453.0,Manchester City,4,Bournemouth,0,66.7,33.3,19,3
+13th August 2022,3:00pm,St. Mary's Stadium,30815.0,Southampton,2,Leeds United,2,42.6,57.4,14,13
+13th August 2022,3:00pm,Molineux,31178.0,Wolverhampton Wanderers,0,Fulham,0,59.6,40.4,7,9
+13th August 2022,5:30pm,Gtech Community Stadium,17051.0,Brentford,4,Manchester United,0,33.3,66.7,13,15
+7th August 2022,2:00pm,The King Power Stadium,31794.0,Leicester City,2,Brentford,2,55.4,44.6,14,8
+7th August 2022,2:00pm,Old Trafford,73711.0,Manchester United,1,Brighton and Hove Albion,2,62.9,37.1,17,15
+7th August 2022,4:30pm,London Stadium,62443.0,West Ham United,0,Manchester City,2,24.6,75.4,6,14
+6th August 2022,12:30p,Craven Cottage,25000.0,Fulham,2,Liverpool,2,33.1,66.9,9,11
+6th August 2022,3:00pm,Vitality Stadium,10000.0,Bournemouth,2,Aston Villa,0,34.4,65.6,7,15
+6th August 2022,3:00pm,Elland Road,36347.0,Leeds United,2,Wolverhampton Wanderers,1,40.1,59.9,12,15
+6th August 2022,3:00pm,"St James' Park, Newcastle",52245.0,Newcastle United,2,Nottingham Forest,0,61.4,38.6,23,5
+6th August 2022,3:00pm,Tottenham Hotspur Stadium,61732.0,Tottenham Hotspur,4,Southampton,1,57.5,42.5,18,10
+6th August 2022,5:30pm,Goodison Park,39254.0,Everton,0,Chelsea,1,37.3,62.7,8,15
+5th August 2022,8:00pm,Selhurst Park,25286.0,Crystal Palace,0,Arsenal,2,56.3,43.7,10,10
